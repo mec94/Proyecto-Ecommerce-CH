@@ -1,0 +1,24 @@
+{
+    "categories": [
+    {
+        "name": "Pantallas",
+        "url": "pantallas"
+    },
+
+    {
+        "name": "Cargadores",
+        "url": "cargadores"
+    },
+
+    {
+        "name": "Baterias",
+        "url": "baterias"
+    },
+    
+    {
+        "name": "Fundas",
+        "url": "fundas"
+    }
+
+    ]
+}
